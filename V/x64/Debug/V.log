@@ -1,0 +1,5 @@
+﻿F:\visual studio 2022\IDE\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(V.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  Volume.c
+F:\Programming coding test 000\ScordRecord\V\Volume.c(20,31): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+F:\Programming coding test 000\ScordRecord\V\Volume.c(9,13): warning C4305: “初始化”: 从“double”到“float”截断
+  V.vcxproj -> F:\Programming coding test 000\ScordRecord\ScoreRecord\x64\Debug\Volume.exe
